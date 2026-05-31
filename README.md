@@ -103,6 +103,8 @@ python 05_classification.py   # Phân loại
 |---|---|---|
 | Hồi quy (6h) | RidgeCV | GeoKM ≈ 32.7 km |
 | Phân loại | Random Forest | F1-macro ≈ 0.69–0.71 |
+<img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/5e121b3f-8587-460b-9faf-106f9bec9d6e" />
+<img width="531" height="470" alt="image" src="https://github.com/user-attachments/assets/13d940fd-a7f3-47a9-8753-8108c5c5ee9d" />
 
 ---
 
