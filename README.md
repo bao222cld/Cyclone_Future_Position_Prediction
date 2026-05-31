@@ -2,7 +2,7 @@
 
 Dự án phân tích và dự báo quỹ đạo bão từ dữ liệu lịch sử (IBTrACS từ năm 1970), bao gồm tiền xử lý dữ liệu, trực quan hóa, phân cụm, hồi quy và phân loại.
 
->  **Notebook đầy đủ với output:** [Xem trên Google Colab]((https://colab.research.google.com/drive/1eHNeK8yVLN-5Mm47Wif7hV__bENyAZaE?authuser=1))
+>  **Notebook đầy đủ với output:** : https://colab.research.google.com/drive/1eHNeK8yVLN-5Mm47Wif7hV__bENyAZaE?authuser=1
 
 ---
 
